@@ -1,0 +1,17 @@
+{
+  "id": "SA@%!G#112",
+  "username": "username",
+  "fullname": "full name",
+  "email": "a@a.b",
+  "phones": [
+    "08766363663636", "1231241231"
+  ],
+  "app_roles": ["fr", "adm"],
+  "code": "SD3",
+  "photo": "https://www.thispersondoesnotexist.com/image",
+  "assigned_areas": ["area_code", "area_code"],
+  "roles": {
+    "id": 1,
+    "name": "Manager Area"
+  }
+}
