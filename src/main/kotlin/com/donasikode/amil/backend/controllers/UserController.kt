@@ -18,7 +18,6 @@ object UserController : BaseController {
         }
     }
 
-
     @OpenApi(
         summary = "Get All Users",
         operationId = "getAllUsers",

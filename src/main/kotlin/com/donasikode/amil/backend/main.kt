@@ -23,7 +23,6 @@ fun main(vararg args: String) {
 
     println("Check out ReDoc docs at http://localhost:$PORT/redoc")
     println("Check out Swagger UI docs at http://localhost:$PORT/swagger-ui")
-
 }
 
 fun getConfiguredOpenApiPlugin() = OpenApiPlugin(
